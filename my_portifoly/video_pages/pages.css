@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+    background-color: #8888;
+}
+div {
+    align-items: center;
+    text-align: center;
+}
+img {
+    width: 70px;
+    height: 70px;
+}
+
+h1 {
+    padding: 20px;
+}

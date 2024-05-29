@@ -1,0 +1,199 @@
+@charset "UTF-8";
+
+nav a:hover {
+    color: blue;
+}
+
+ul {
+    background-color: #5555;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 20px;
+}
+
+.menu {
+    color: #D3D9ED;
+    text-decoration: none;
+}
+
+body {
+    margin: 0px;
+    /*background-image: linear-gradient(45deg, #123, #6564E6 70%);*/
+    background-image: radial-gradient(#5555, #222222);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+    font-family: "Queen";
+    src: url("sources/queen_misti/Queen\ Misti.ttf") format(truetype);
+}
+
+h1 {
+    text-shadow: 2px 2px 2px #222;
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 4.5em;
+    font-weight: 700;
+    margin: auto;
+}
+
+h4 {
+    font-family: "Queen";
+    text-shadow: 1px 1px 1px #222;
+    margin: auto 500px auto auto;
+    font-size: 20px;
+}
+
+.apresentation h2 {
+    font-family: "Queen";
+    text-shadow: 1px 1px 1px #222;
+    margin: auto auto auto 500px;
+    font-size: 20px;
+}
+
+.apresentation {
+    color: black;
+    /*background-image: radial-gradient(#55555500, #2222227e); */
+    margin: 250px auto 900px auto;
+    text-align: center;
+    font-display: flex;
+    font-size: xx-large;
+}
+
+.center h2 {
+    text-shadow: 2px 2px 2px #685f47cb;
+    color: #351f1b;
+    text-decoration: underline;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: rgb(87, 88, 88);
+    text-align: center;
+}
+
+.conteudo {
+    width: 1000px;
+    background-color: rgba(187, 180, 180, 0.411);
+    border-radius: 3%;
+}
+
+.me {
+    margin-bottom: 10px;
+    width: 250px;
+    height: 285px;
+    border-radius: 20px;
+    border: 10px solid #4752419c;
+    border-style: double groove hidden;
+    box-shadow: 3px 5px 10px #3b3b3b62;
+}
+
+main {
+    box-shadow: 10px 10px 10px #3b3b3b56;
+    border-radius: 15px;
+    padding: 10px;
+    width: 500px;
+    text-align: center;
+    margin: auto auto 10px auto;
+    background-color: white;
+}
+
+h3 {
+    margin: auto;
+    text-shadow: 2px 0px 1px #885c5ca2;
+    color: #5f2525;
+}
+
+section p {
+    color: black;
+}
+
+
+.videos {
+    background-color: rgba(145, 142, 142, 0.479);
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+.video1 {
+    border: 2px solid rgb(255, 0, 0);
+    margin: 3px;
+    outline: 3px double blue;
+    width: 350px;
+    height: 250px;
+}
+.video1:hover {
+    width: 370px;
+    height: 270px;
+}
+
+.video2 {
+    border: 2px solid rgb(255, 0, 0);
+    margin: 3px;
+    outline: 3px double blue;
+    width: 350px;
+    height: 250px;
+}
+
+.video2:hover {
+    width: 370px;
+    height: 270px;
+}
+
+.video3 {
+    border: 2px solid rgb(255, 0, 0);
+    margin: 3px;
+    outline: 3px double blue;
+    width: 350px;
+    height: 250px;
+}
+
+.video3:hover {
+    width: 370px;
+    height: 270px;
+}
+
+.video4 {
+    border: 2px solid rgb(255, 0, 0);
+    margin: 3px;
+    outline: 3px double blue;
+    width: 350px;
+    height: 250px;
+}
+
+.video4:hover {
+    width: 370px;
+    height: 270px;
+}
+
+footer img {
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+
+footer {
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    text-decoration: none;
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    color: #D3D9ED;
+    margin-top: 2px;
+}
+
+.pe {
+    background-color: #222;
+}
+
