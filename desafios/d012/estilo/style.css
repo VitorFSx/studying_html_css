@@ -64,7 +64,7 @@ section p {
 }
 
 .img1 {
-    background-image: url("../d012/imagens/background001.jpg");
+    background-image: url("../imagens/background001.jpg");
     background-size: cover;
     background-attachment: fixed;
     box-shadow: inset 6px 6px 15px 0px rgba(0, 0, 0, 0.548);
@@ -79,7 +79,7 @@ section p {
 }
 
 .img2 {
-    background-image: url("../d012/imagens/background002.jpg");
+    background-image: url("../imagens/background002.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
