@@ -1,0 +1,23 @@
+
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 400px;
+    height: 400px;
+    border-collapse: collapse;
+}
+
+table td {
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: top;
+}
+
+td.numero {
+    text-align: right;
+}
